@@ -1,4 +1,4 @@
-name: kameleo
+name: Lezard
 favicon: null
 layout_spectrum: 0.2914034000132233
 typography_spectrum: 0.7230816290248185
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.7071487086359411
-  lightness: 0.7354022725485265
-  saturation: 0.11274289945140481
-  rhythmicContrast: 0.1556742328684777
+    - '#ffffff'
+    - '#e2017b'
+    - '#020305'
+    - '#8d827e'
+    - '#c7cc54'
+  brandStrength: 0.6875
+  lightness: 0.4375
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
